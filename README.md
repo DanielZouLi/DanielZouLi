@@ -2,11 +2,10 @@
 
 
 <h3 align="left">💬 About me</h3>
-- **I am a second-year computer science student at University of British Columbia, passionate about coding, machine learning, and building applications**
+I am a second-year computer science student at University of British Columbia, passionate about coding, machine learning, and building applications
 
 <h3 align="left">📫 Connect with me </h3>
-
-- **https://www.linkedin.com/in/daniel-zou-li/**
+https://www.linkedin.com/in/daniel-zou-li/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
