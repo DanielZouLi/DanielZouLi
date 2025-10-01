@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Daniel Zou</h1>
-<h3 align="center">I am a second-year computer science student at University of British Columbia, passionate about coding, machine learning, and building applications</h3>
 
 - 💬 About me **I am a second-year computer science student at University of British Columbia, passionate about coding, machine learning, and building applications**
 
