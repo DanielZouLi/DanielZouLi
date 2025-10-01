@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Daniel Zou</h1>
 
 
-<h3 align="left">💬 About me</h3>
-I am a second-year computer science student at University of British Columbia, passionate about coding, machine learning, and building applications
+<h2 align="left">💬 About me</h2>
+I am a second-year computer science student at University of British Columbia, passionate about the world of coding and building applications.
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/daniel-zou-li/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daniel-zou-li/" height="30" width="40" /></a>
 </p>
